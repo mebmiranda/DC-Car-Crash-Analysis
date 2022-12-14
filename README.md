@@ -1,6 +1,3 @@
-# DC-Car-Crash-Analysis
-CSE 6242 Data and Visual Analytics Project (M.S. in Analytics at Georgia Institute of Technology)
-
 # D.C. Car Crash Analysis
 Analysis of transportation-related crashes (car, motorcycle, pedestrian, bike) in the Washington, D.C. area.
 This project is in-line with D.C.'s Vision Zero goal. The project is for partial fulfillment of the requirements for [CSE 6242 Data and Visual Analtytics](https://omscs.gatech.edu/cse-6242-data-visual-analytics).
