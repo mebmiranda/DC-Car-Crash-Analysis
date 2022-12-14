@@ -17,7 +17,7 @@ The table below lists all the data sources with their descriptions and a clickab
 |[Crash Table Data](https://opendata.dc.gov/datasets/DCGIS::crash-details-table/explore)|This table is a companion to the Crashes in DC layer. It is a related table containing details for each crash such as methods of transportation, some demographics for persons and injury types. (~720,000 rows, 66 MB)|
 |[Automated Traffic Enforcement](https://opendata.dc.gov/datasets/automated-traffic-enforcement/explore?location=38.894716%2C-76.562079%2C10.57)|The Automated Traffic Enforcement (ATE) is a division of the District Department of Transportation (DDOT) that uses photo enforcement cameras as one of traffic calming measures to enforce traffic laws, and to reduce violations at DC’s streets and most intersections. (138 rows, 16 KB)| 
 
-</br>
+<br>
 ## Expected Innovation
 Although D.C.’s Vision Zero website includes numerous data visualizations and analytical products, they
 lack the following features, that we aim to improve upon:
